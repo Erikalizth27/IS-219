@@ -51,7 +51,7 @@ body {
 #nav_menu li a:hover { 
 	background-color: #6e0e5f; 
 }
-#mobile_menu {
+#mobile_menu 
 	display: none;
 }
 .title h2{
